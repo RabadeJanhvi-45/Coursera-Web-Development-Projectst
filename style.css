@@ -1,0 +1,84 @@
+*{
+    margin:10px;
+    background-color: black;
+}
+#home{
+ margin:-1 -1;
+ padding-bottom: 2cm;
+ background-color: aqua;
+}
+header{
+    font-size: 30px;
+    color: purple;
+    float: left;
+    padding:2cm 0cm;
+
+}
+nav{
+    float: right;
+    padding:0cm 1cm;
+}
+nav a button{
+    color:grey;
+    background-color: purple;
+    margin: 10px;
+    padding:10px;
+    border-radius: 1mm;
+}
+nav a button:hover{
+    color:white;
+    font:bolder;
+    background-color: purple;
+
+}
+#all-conversion-sections{
+    align-items: center;
+    display: grid;
+
+}
+figure{
+    float:left;
+    justify-content: center;
+    width: 200px;
+}
+img{
+    width: 200px;
+}
+figcaption{
+    color:black;
+    font-size: 17px;
+    text-align: center;
+}
+button{
+    font-size: 20px;
+    border: transparent;
+    border-radius: 40px;
+    width:auto;
+    background-color: lightgreen;
+    padding: 15px 15px;
+}
+fieldset button:hover{
+cursor: pointer;
+}
+.b{
+    border-top: solid 20px 10px;
+    background-color: white;
+    width:600px;
+    height:400px;
+    margin:25px 25px;
+    display: flexbox;
+}
+.temperature{
+    border-top: green;
+}
+.weight{
+    border-top: coral;
+}
+.distance{
+    border-top: cyan;
+}
+legend{
+    font-size:3px;
+    font-weight: bolder;
+    
+}
