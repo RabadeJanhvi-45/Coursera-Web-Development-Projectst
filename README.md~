@@ -1,1 +1,68 @@
-# Coursera-Web-Development-Projectst
+<div align="center">
+
+# Coursera Web Development Projects
+
+**A collection of frontend practice projects and assignments completed while learning web development.**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Frontend](https://img.shields.io/badge/Focus-Frontend%20Development-6366F1?style=flat-square)
+
+</div>
+
+---
+
+## Overview
+
+This repository contains web development exercises and projects created as part of Coursera learning assignments. The files cover different foundational frontend topics, including webpage structure, styling, form validation, and a solar system page.
+
+The repository is intended as a learning portfolio showing practice with HTML and CSS. Refer to each source file to explore its specific implementation.
+
+## Projects and Files
+
+| File | Description |
+|---|---|
+| `index.html` | Main HTML practice page; inspect the file for its specific content. |
+| `mywebpage.html` | A separate webpage exercise. |
+| `form_validation.html` | HTML page related to form validation. |
+| `form_validation.txt` | Supporting text or assignment material related to form validation. |
+| `solarsystem.html` | A webpage about the solar system. |
+| `style.css` | CSS styles used by one or more pages. |
+| `AssignmentCoursera/` | Directory shown in the repository listing; explore it for additional assignment files. |
+
+## Technology Stack
+
+- **HTML5** — structures webpages and content.
+- **CSS3** — styles page elements and layout.
+
+## Getting Started
+
+No build tools or backend services are required for the listed static HTML and CSS files.
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/RabadeJanhvi-45/Coursera-Web-Development-Projectst.git
+   ```
+
+2. Open the repository folder in VS Code or another editor.
+3. Open any `.html` file in a browser to view the page.
+4. To edit the project, modify the HTML or CSS and refresh the browser to see the changes.
+
+For a convenient development workflow, you can use the Live Server extension in VS Code.
+
+## What This Repository Demonstrates
+
+- Creating webpages with HTML.
+- Applying CSS styling to web content.
+- Practicing form-related markup and validation concepts.
+- Organizing multiple learning exercises in one repository.
+- Iterating on frontend work through source-code changes.
+
+## Future Improvements
+
+- Add screenshots and a short description for each assignment.
+- Organize completed exercises into clearly named folders.
+- Improve responsive layouts for mobile and desktop screens.
+- Add links to live demos for pages that are ready to publish.
+- Document the specific learning objective of each exercise.
